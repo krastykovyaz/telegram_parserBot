@@ -8,7 +8,7 @@ from task import Task
 import markups as m
 
 
-TOKEN = "1049752328:AAHiihjkpzigLllXXr7fzACcf3uL9ydmYJg"
+TOKEN = "token"
 bot = telebot.TeleBot(TOKEN)
 task = Task()
 
